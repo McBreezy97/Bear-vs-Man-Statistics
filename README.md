@@ -1,0 +1,2 @@
+This code is essentially taking FBI violent crime statistics from 2022 and checking to see which is the optimal choice when addressing the hypothetical Bear vs Man trend. Please note that in this program we are comparing ALL violent crime
+to only fatal bear attacks, if we were to view murder rates it would be significantly different. This is also my first attempt at sharing analytics with people so bear with me and please give constructive feedback. 
