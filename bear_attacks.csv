@@ -1,0 +1,157 @@
+Date,Location,Bear,Name,Age,Gender
+23-Aug-18,"Lyon Inlet, Nunavut  ",Polar,Darryl Kaunak,33, male
+3-Jul-18,"Sentry Island, Nunavut",Polar,Aaron Gibbons,31, male
+9-Jul-99,"near Rankin Inlet, Nunavut",Polar,Hattie Amitnak,64, female
+8-Dec-90,"Point Lay, Alaska",Polar,Carl Stalker,28, male
+29-Nov-83,"Churchill, Manitoba",Polar,Thomas Mutanen,46, male
+5-Jan-75,"Inuvik, Northwest Territories",Polar,Richard Pernitzky,18, male
+17-Nov-68,"Churchill, Manitoba",Polar,Paulosie Meeko,19, male
+1-Sep-19,"Red Pine Island, Ontario",Black,Catherine Sweatt-Mueller,62, female
+19-Jun-17,"Pogo mine, Alaska",Black,Erin Johnson,27, female
+18-Jun-17,"Indian, Alaska",Black,Patrick Cooper,16, male
+10-May-15,"near Mackenzie, British Columbia",Black,Daniel Ward O'Connor,27, male
+21-Sep-14,"near West Milford, New Jersey",Black,Darsh Patel,22, male
+7-May-14,"near Fort McMurray, Alberta",Black,Lorna Weafer,36, female
+6-Jun-13,"near Delta Junction, Alaska",Black,Robert Weaver,64, male
+25-Jul-11,"Pinetop-Lakeside, Arizona",Black,Lana Hollingsworth,61, female
+Jun-11,"near Lillooet, British Columbia",Black,Bernice Adolph,72, female
+7-Aug-09,"Ouray, Colorado",Black,Donna Munson,74, female
+30-May-08,"near La Sarre, Quebec",Black,Cécile Lavoie,70, female
+20-Jul-07,"Panorama Mountain Resort, British Columbia",Black,Robin Kochorek,31, female
+17-Jun-07,"Uinta National Forest, Utah",Black,Samuel Evan Ives,11, male
+13-Apr-06,"Cherokee National Forest, Tennessee",Black,Elora Petrasek,6, female
+6-Sep-05,"Missinaibi Lake Provincial Park, Ontario",Black,Jacqueline Perry,30, female
+26-Aug-05,"Selkirk, Manitoba",Black,Harvey Robinson,69, male
+14-Jun-05,"Nonacho Lake, Northwest Territories",Black,Merlyn Carter,71, male
+29-Sep-02,"Saint-Zénon-du-Lac-Humqui, Quebec",Black,Maurice Malenfant,77, male
+1-Sep-02,"near Fort Nelson, British Columbia",Black,Christopher Bayduza,31, male
+19-Aug-02,"Fallsburg, New York",Black,Ester Schwimmer, 5 months, female
+18-Aug-01,"Mora, New Mexico",Black,Adelia Maestras Trujillo,93, female
+3-Jun-01,"near Yellowknife, Northwest Territories",Black,Kyle Harry,18, male
+2-Jul-00,"near Valcartier, Quebec",Black,Mary Beth Miller,24, female
+21-May-00,"Great Smoky Mountains National Park, Tennessee",Black,Glenda Ann Bradley,50, female
+14-Aug-97,"Liard River Hot Springs Provincial Park, British Columbia",Black,Raymond Kitchen,56, male
+14-Aug-97,"Liard River Hot Springs Provincial Park, British Columbia",Black,Patti McConnell,37, female
+14-Jun-96,"near Tatlayoko Lake, British Columbia",Black,Sevend Satre,53, male
+16-Sep-94,"70 Mile House, British Columbia",Black,Ian Dunbar,4, male
+10-Aug-93,"Fremont County, Colorado",Black,Colin McClelland,24, male
+8-Jul-92,"Glennallen, Alaska",Black,Darcy Staver,33, female
+14-Jun-92,"near Cochrane, Ontario",Black,Sébastien Lauzier,20, male
+11-Oct-91,"Algonquin Provincial Park, Ontario",Black,Raymond Jakubauskas,32, male
+11-Oct-91,"Algonquin Provincial Park, Ontario",Black,Carola Frehe,48, female
+26-May-91,"Lesser Slave Lake, Alberta",Black,James Waddell,12, male
+29-May-85,"near Fort Nelson, British Columbia",Black,Gordon Ray,24, male
+6-Jul-83,"La Vérendrye Wildlife Reserve, Quebec",Black,Daniel Anderson,12, male
+27-May-83,"near Nipawin Provincial Park, Saskatchewan",Black,Melvin Rudd,55, male
+21-May-83,"near Canwood, Saskatchewan",Black,Clifford David Starblanket,26, male
+14-Aug-80,"near Zama City, Alberta",Black,Lee Randal Morris,44, male
+14-Aug-80,"near Zama City, Alberta",Black,Carol Marshall,24, female
+18-Jul-80,"near Granisle, British Columbia",Black,Allan Russell Baines,10, male
+13-May-78,"Algonquin Provincial Park, Ontario",Black,George Halfkenny,16, male
+13-May-78,"Algonquin Provincial Park, Ontario",Black,Mark Halfkenny,12, male
+13-May-78,"Algonquin Provincial Park, Ontario",Black,Billy Rhindress,15, male
+16-May-74,"Glenwood, Washington",Black,Victoria Valdez,4, female
+25-Jul-71,"near Rocky Mountain National Park, Colorado",Black,John Richardson,31, male
+1-Oct-68,"near Atikokan, Ontario",Black,Jack Ottertail,53, male
+8-Aug-67,"near Okanagan Landing, British Columbia",Black,Susan Duckitt,11, female
+2-Jul-65,"Aitkin, Minnesota",Black,Vernon Sauvola,51, male
+17-Sep-64,"near Schefferville, Quebec",Black,Sidney Smith,26, male
+16-Aug-63,"near Fairbanks, Alaska",Black,William Strandberg,51, male
+6-Sep-59,"near Cadomin, Alberta",Black,Lyndon Hooper,51, male
+12-Aug-58,"Jasper National Park, Alberta",Black,Barbara Coates,7, female
+19-Nov-52,"near Anchorage, Alaska",Black,Rudolph Gaier,50, male
+7-Jul-48,"Marquette National Forest, Michigan",Black,Carol Ann Pomeranky,3, female
+23-Nov-43,"West Townshend, Vermont",Black,Carl Herrick,37, male
+24-Nov-06,"Elk County, Pennsylvania",Black,John Dicht,18, male
+19-May-01,"Job, West Virginia",Black,Mary Porterfield,3, female
+19-May-01,"Job, West Virginia",Black,Willie Porterfield,5, male
+19-May-01,"Job, West Virginia",Black,Henry Porterfield,7, male
+"September 4, 1883","Cheboygan, Michigan",Black,Frank Devereaux,52, male
+"December 29, 1883","Wilkes-Barre, Pennsylvania",Black,John Robinson, ?, male
+June 1881,"Algonquin Provincial Park, Ontario",Black,John Dennison,82, male
+August 1784,"Moultonborough, New Hampshire",Black,"""Son of Mr. Leach",""" 8", male
+15-Aug-19,"Tulita, Northwest Territories",Brown,Julien Gauthier,44, male
+26-Nov-18,"Einarson Lake, Yukon",Brown,Valérie Théorêt,37, female
+26-Nov-18,"Einarson Lake, Yukon",Brown,Adele Roesholt, 10 months, female
+1-Oct-18,"Admiralty Island, Alaska",Brown,Anthony David Montoya,18, male
+14-Sep-18,"Teton Wilderness, Wyoming",Brown,Mark Uptain,37, male
+19-Jun-18,"Eagle River, Alaska",Brown,Mike Soltis,44, male
+29-Jun-16,"Flathead National Forest, Montana",Brown,Brad Treat,38, male
+7-Aug-15,"Yellowstone National Park, Wyoming",Brown,Lance Crosby,63, male
+14-Oct-14,"near Teslin, Yukon",Brown,Claudia Huber,42, female
+17-Sep-14,"near Norman Wells, Northwest Territories",Brown,Ken Novotny,53, male
+7-Sep-14,"Kananaskis Country, Alberta",Brown,Rick Cross,54, male
+4-Sep-14,"Bridger-Teton National Forest, Wyoming",Brown,Adam Thomas Stewart,31, male
+24-Aug-12,"Denali National Park, Alaska",Brown,Richard White,49, male
+Oct-12,"Chichagof Island, Alaska",Brown,Tomas Puerta,54, male
+24-Aug-11,"Yellowstone National Park, Wyoming",Brown,John Wallace,59, male
+6-Jul-11,"Yellowstone National Park, Wyoming",Brown,Brian Matayoshi,57, male
+28-Jul-10,"Gallatin National Forest, Montana",Brown,Kevin Kammer,48, male
+17-Jun-10,"Shoshone National Forest, Wyoming",Brown,Erwin Frank Evert,70, male
+1-Oct-08,"near Sundre, Alberta",Brown,Robert Wagner,48, male
+25-Nov-07,"near Sundre, Alberta",Brown,Don Peters,51, male
+28-Apr-06,"near Ross River, Yukon",Brown,Jean-François Pagé,28, male
+20-Sep-05,"near Bowron River, British Columbia",Brown,Arthur Louie,60, male
+23-Jun-05,"Arctic National Wildlife Refuge, Alaska",Brown,Rich Huffman,61, male
+23-Jun-05,"Arctic National Wildlife Refuge, Alaska",Brown,Kathy Huffman,58, female
+5-Jun-05,"Canmore, Alberta",Brown,Isabelle Dubé,35, female
+5-Oct-03,"Katmai National Park, Alaska",Brown,Timothy Treadwell,46, male
+5-Oct-03,"Katmai National Park, Alaska",Brown,Amie Huguenard,37, female
+30-Oct-01,"near Ovando, Montana",Brown,Timothy Hilston,50, male
+14-Jul-00,"Hyder, Alaska",Brown,George Tullos,41, male
+1-Nov-99,"Uganik Island, Alaska",Brown,Ned Rasmussen,53, male
+25-May-99,"Kenai National Wildlife Refuge, Alaska",Brown,Ken Cates,53, male
+24-Oct-98,"near Prince George, British Columbia",Brown,George Evanoff,65, male
+22-Aug-98,"near Beaver Mines, Alberta",Brown,Christopher Kress,40, male
+17-May-98,"Glacier National Park, Montana",Brown,Craig Dahl,26, male
+8-Feb-98,"near Kenai, Alaska",Brown,Audelio Luis Cortes,40, male
+23-Aug-96,"Gates of the Arctic National Park, Alaska",Brown,Robert Bell,33, male
+5-Jul-96,"Kluane National Park, Yukon",Brown,Christine Courtney,32, female
+9-Oct-95,"near Radium Hot Springs, British Columbia",Brown,Shane Fumerton,32, male
+9-Oct-95,"near Radium Hot Springs, British Columbia",Brown,Bill Caspell,40, male
+1-Jul-95,"near Anchorage, Alaska",Brown,Marcie Trent,77, female
+1-Jul-95,"near Anchorage, Alaska",Brown,Larry Waldron,45, male
+3-Oct-92,"Glacier National Park, Montana",Brown,John Petranyi,40, male
+15-Sep-92,"Jasper National Park, Alberta",Brown,Trevor Percy-Lancaster,40, male
+10-Jul-92,"near King Cove, Alaska",Brown,Anton Bear,6, male
+4-Nov-88,"Port Alexander, Alaska",Brown,Harley Seivenpiper,40, male
+23-Jul-87,"Glacier National Park, Montana",Brown,Gary Goeden,29, male
+25-Apr-87,"Glacier National Park, Montana",Brown,Charles Gibbs,40, male
+5-Oct-86,"Yellowstone National Park, Wyoming",Brown,William Tesinsky,38, male
+30-Jul-84,Yellowstone National Park,Brown,Brigitta Fredenhagen,25, female
+25-Jun-83,"Gallatin National Forest, Montana",Brown,Roger May,23, male
+30-Sep-80,"Glacier National Park, Montana",Brown,Laurence Gordon,33, male
+24-Aug-80,"near Banff, Alberta",Brown,Ernest Cohoe,38, male
+24-Jul-80,"Glacier National Park, Montana",Brown,Jane Ammerman,19, female
+24-Jul-80,"Glacier National Park, Montana",Brown,Kim Eberly,19, male
+15-Sep-79,"near Pincher Creek, Alberta",Brown,Monty Adams,32, male
+1-Jul-77,"Waterton Lakes National Park, Alberta",Brown,Alison Muser,5, female
+23-Sep-76,"Glacier National Park, Montana",Brown,Mary Pat Mahoney,22, female
+"September 11, 12 or 13, 1976; exact date unknown","Glacier Bay National Park and Preserve, Alaska",Brown,Alan Precup,25, male
+24-Jul-76,"Glacier National Park of Canada, British Columbia",Brown,Barbara Chapman,24, female
+3-Aug-74,"Izembek National Wildlife Refuge, Alaska",Brown,Jay Reeves,38, male
+25-Sep-73,"Banff National Park, Alberta",Brown,Wilf Etherington,51, male
+25-Jun-72,"Yellowstone National Park, Wyoming",Brown,Harry Walker,25, male
+14-Jan-70,"near Fort St. John, British Columbia",Brown,Harvey Cardinal,48, male
+13-Aug-67,"Glacier National Park, Montana",Brown,Julie Helgeson,19, female
+13-Aug-67,"Glacier National Park, Montana",Brown,Michele Koons,19, female
+27-Oct-58,"near Ovando, Montana",Brown,Sam Adams,45, male
+22-Oct-56,"near Augusta, Montana",Brown,Kenneth Scott,29, male
+19-Sep-55,"near Eureka, Alaska",Brown,Willies McBride, ?, male
+23-Aug-42,"Yellowstone National Park, Wyoming",Brown,Martha Hansen,45, female
+Oct-32,"near Dawson, Yukon",Brown,John Macdonald,70, male
+12-Sep-29,"Jasper National Park, Alberta",Brown,Percy Goodair,52, male
+12-Jun-22,"Absaroka-Beartooth Wilderness, Montana",Brown,"Joseph B. ""Frenchy"" Duret",60, male
+8-Sep-16,"Yellowstone National Park, Wyoming",Brown,Frank Welch,61, male
+Unknown date prior to February 1914,"Helena, Montana",Brown,,,
+"September 2, 1892","Near Greybull River, Wyoming",Brown,Phillip Henry Vetter,37, male
+June 1886,"Salmon River, Idaho",Brown,"""Old Ike""", ?, male
+July 1885,"Sedona, Arizona",Brown,Richard Wilson, ?, male
+24 June 1892,"Colonia Pacheco, Chihuahua, Mexico",Brown,Hyrum Conrad Naegle,22, male
+1875,"Big Basin Redwoods State Park, California",Brown,William White Waddell,57, male
+"August 30, 1863","Cache County, Utah",Brown,Charles Henry Gates,35, male
+1855,"Sierra Nevada, California",Brown,"John ""Grizzly"" Adams",43, male
+"December 19, 1853","Santa Monica, California",Brown,"Andrew Whitley ""Andy"" Sublette",46, male
+"October 27, 1854","Mount San Antonio, California",Brown,Isaac Slover,68, male
+Circa 1850,"Russian River, California",Brown,Jim Boggs, ?, male
+"October 17, 1837","Fort Tejon, California",Brown,Peter Lebec, ?, male
